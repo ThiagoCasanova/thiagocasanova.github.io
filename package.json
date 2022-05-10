@@ -6,7 +6,7 @@
   "scripts": {
     "build": "npx tailwindcss -o tailwind.css --minify"
   },
-  "author": "Dan Berry",
+  "author": "Thiago Casanova",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^10.4.5",
